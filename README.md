@@ -1,4 +1,4 @@
-<h1>Olá!Eu sou o Gabriel Debossan 👋 </h1>
+<h1>Olá! Eu sou o Gabriel Debossan 👋 </h1>
 
 <p>
     - 🌱 Estudando Node.js e TypeScript <br>
