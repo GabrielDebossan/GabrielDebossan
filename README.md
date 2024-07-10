@@ -1,7 +1,7 @@
 <h1>Olá! Eu sou o Gabriel Debossan 👋 </h1>
 
 <p>
-    - 🌱 Estudando Node.js e TypeScript <br>
+    - 🌱 Estudando Java <br>
     - 📫 Contate-me no email: gabrieldebossan909@gmail.com <br>
 </p>
 
